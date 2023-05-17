@@ -1,0 +1,8 @@
+source code implement:
+https://github.com/lawrensiya/Project-Tenki/tree/master/Database 
+
+Dataset:
+https://www.kaggle.com/datasets/stpeteishii/weather-in-kobe 
+
+
+kaggle datasets download -d stpeteishii/weather-in-kobe
