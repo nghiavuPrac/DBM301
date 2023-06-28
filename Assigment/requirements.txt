@@ -1,5 +1,8 @@
 pandas
 numpy
 matplotlib
-pywt
 seaborns
+jupyter-dash
+dash-cytoscape
+category_encoders
+opendatasets
